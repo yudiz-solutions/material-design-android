@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MaterialApp</string>
+    <string name="action_favorite">Favourite</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Setting</string>
+    <string name="nav_item1">Nav Item 1</string>
+    <string name="nav_item2">Nav Item 2</string>
+    <string name="nav_item3">Nav Item 3</string>
+    <string name="primary_screen_text">sdjs</string>
+    <string name="toggle_fab_string">ajds</string>
+    <!--<string name="appbar_scrolling_view_behavior" translatable="false" tools:ignore="PrivateResource">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>-->
+    <string name="goa">Goa</string>
+    <string name="nainital">Nainital</string>
+    <string name="Manali">Manali</string>
+    <string name="leh_ladakh">Leh Ladakh</string>
+    <string name="kashmir">Kashmir</string>
+    <string name="camel_safari_jaisalmer">Camel Safari at Jaisalmer</string>
+    <string name="lonavala_valley">Lonavala Valley</string>
+    <string name="shillong">Shillong</string>
+    <string name="kutch">Rann of kutch</string>
+    <string name="siliguri">siliguri</string>
+    <string name="kaziranga">Kaziranga</string>
+</resources>
